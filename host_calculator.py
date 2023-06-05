@@ -1,4 +1,4 @@
-print('hola mundo')
+
 
 numero = input('Ingrese el valor despues del / :')
 numero = int (numero)
